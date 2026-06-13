@@ -1,0 +1,25 @@
+## Active Projects & Grants
+
+::: {.callout-note}
+### 1. Artificial Intelligence driven Flocculation and Fractal Mixer System Modelling
+*   **Role:** Responsible Researcher
+*   **Funding:** Brazilian Government (MEC), CAPES-PDSE process (Grant: 88881.126607/2025-01)
+*   **Duration:** 2025–2026
+*   **Collaborators:** Prof. Rodrigo Moruzzi (UNESP), Prof. Soroosh Sharifi (UoB)
+:::
+
+::: {.callout-note}
+### 2. Flocculation Optimisation for Microplastic Removal
+*   **Role:** Co-researcher
+*   **Funding:** National Council for Scientific and Technological Development (CNPq)
+*   **Duration:** 2024–2026
+*   **Team:** UNESP, UoB, FUNAAB (Lead: R. Moruzzi)
+:::
+
+::: {.callout-note}
+### 3. Stakeholder Participation for Drought Resilience
+*   **Role:** Co-researcher
+*   **Funding:** Government of the Netherlands (Water and Development Partnership - DUPC3)
+*   **Duration:** 2023–2026
+*   **Scope:** Multi-national consortium (Jordan, Yemen, Egypt, Lebanon, Tunisia, Nigeria, Ethiopia)
+:::
