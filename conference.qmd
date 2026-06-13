@@ -1,0 +1,21 @@
+---
+title: "Conference Presentations"
+---
+
+## Selected Conference Papers
+
+*   **International Medical Geology Association Conference** (2019) | Abeokuta, Nigeria
+    *   *Paper:* Saline Water Intrusion in Groundwater Sources in Parts of Lagos State, Nigeria.
+*   **Faculty of Science 5th Biennial Conference** (2019) | Abraka, Nigeria
+    *   *Paper:* Spatial Trend Assessment of Saline-Water Intrusion in Igbokoda/Awoye Coastal Area.
+*   **Environmental Health Scientists Association** (2021) | Ibadan, Nigeria
+    *   *Paper:* Comparative Study of Municipal Solid Waste Management in Nigeria and Japan (SDG 11.6.1).
+    *   *Paper:* Sanitation Coverage and Public Health Status in Nigeria (SDG 6).
+*   **BRICS Urbanization Green Innovation Young Scientist Conference** (2022) | China
+    *   *Paper:* Advantages and Disadvantage of using Tanning vs Aluminium Sulfate for Microalgae Separation.
+*   **20th SILUBESA Conference** (2022) | Aveiro, Portugal
+    *   *Paper:* Separation of Microalgae Grown Anaerobically using Moringa Oleifera, Tannin and Aluminium Sulfate.
+*   **2nd Int. Conf. on Environment, Technology, and Management** (2022) | Nigde, Turkey
+    *   *Paper:* Biosorption efficiency of Kenaf Fibres and Moringa Seeds in turbid water.
+*   **Water and Health Conference** (2022) | UNC Chapel Hill, USA
+    *   *Paper:* Can Composite WASH Data Assessment and Interpretation Be Achieved? A WASH Index Approach.

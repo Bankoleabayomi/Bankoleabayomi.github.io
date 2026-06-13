@@ -1,0 +1,31 @@
+---
+title: "Software & Research Outputs"
+---
+
+## Software & Code
+
+::: {.callout-tip}
+### 1. MI-NiDIA
+A scalable framework for modelling flocculation kinetics and floc evolution in water treatment.
+[View on Code Ocean](https://codeocean.com/capsule/8544672/tree/v1)
+:::
+
+::: {.callout-tip}
+### 2. FLOCXION
+Flocculation Kinetics and Retention Time Optimisation using Swarm Intelligence and Image Analysis.
+[Visit FLOCXION Website](https://flocxion-application.onrender.com/) | [View on Code Ocean](https://codeocean.com/explore/2632e19b-8757-49bd-903e-ac2882ac1df7)
+:::
+
+::: {.callout-tip}
+### 3. FlocLib
+Open-source Python library for image-based automatic flocculation kinetics and Retention Time Modelling.
+[View on GitHub](https://github.com/Bankoleabayomi/Floclib)
+:::
+
+## Patents (Intellectual Property)
+
+::: {.callout-warning}
+### PFSS (Patent Filing)
+*Status: Filed / Under Review*
+Details regarding this intellectual property will be updated upon formal approval.
+:::

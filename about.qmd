@@ -1,5 +1,44 @@
 ---
-title: "About"
+title: "About Me"
 ---
 
-About this site
+## Biography
+Abayomi O. Bankole is an Environmental Engineer and Graduate Researcher at the Universidade Estadual Paulista (São Paulo State University - UNESP, Brazil), where he's currently working on advancing smart water treatment processes, focusing on flocculation unit automation using artificial intelligence and computer vision. Bankole also serves as an Assistant Lecturer at Federal University of Agriculture, Abeokuta (FUNAAB) and a member of the International Water Association (IWA). He has a strong background in Water Resources Management, Hydrology and Engineering. Since joining the Federal University of Agriculture, Abeokuta (FUNAAB) in 2019, he has advanced from Graduate Assistant to Assistant Lecturer. He holds two Master’s degrees: one in Civil and Environmental Engineering from UNESP, Brazil, and another in Water Security and Safety Management from FUNAAB. Bankole's expertise lies in developing advanced water treatment, his research is driven by a commitment to developing innovative solutions for water treatment challenges, particularly in the context of autonomous water treatment monitoring and optimisation. He has a passion for leveraging high-performance computing and modern machine learning architectures to create robust, real-time computational tools for water treatment processes. His work has been published in several peer-reviewed journals, and he has presented his research at international conferences. Bankole's academic journey reflects a dedication to interdisciplinary research and a commitment to addressing global water challenges through innovative engineering solutions. He has recently designed and developed a novel machine learning framework for the optimisation of flocculation processes in water treatment, which has been recognized for its potential to enhance the efficiency and sustainability of water treatment systems. Extended parts of his research also include modelling of extreme weather events such as flood and droughts, and their impacts on water resources, while my early research focused on water security and safety management, particularly in the context of developing countries. 
+
+Bankole is a fellow of the Agricultural Research and Innovative Forum for Africa (ARIFA) and has received prestigious support from both the Brazil Government (CAPES and CNPq), Tertiary Education Trust Fund (TETFund), and the Forum for Agricultural Research in Africa (FARA). His research interests encompass Water and Wastewater Treatment, Engineering Hydrology, Hydrogeology, Sanitation Technology, and the Application of Artificial Intelligence in Water Systems’ Modelling.
+
+Aside from academic pursuits, Bankole is an avid sports enthusiast, having represented his university and Ogun State in Table Tennis competitions. He has also been involved in various athletic competitions, earning multiple medals in Table Tennis at National and Continental scales. He has also been involved in various community service projects like the Save Environment Initiative. He is also passionate about mentoring young researchers and fostering interdisciplinary collaboration in the field of hydrology and environmental engineering.
+
+## Academic History
+* **Visiting Academic Researcher** | University of Birmingham (UoB), UK | 2025–2026
+* **Ph.D. Civil and Environmental Engineering** | Universidade Estadual Paulista (UNESP), Brazil | Ongoing
+* **M.Sc. in Civil and Environmental Engineering** | Universidade Estadual Paulista (UNESP), Brazil | 2023
+* **M.Sc. in Water Security and Safety Management** | Federal University of Agriculture, Abeokuta | 2024
+* **B.Sc. in Water Resources Management and Hydrology** | Federal University of Agriculture, Abeokuta | 2017
+
+## Professional Experience
+* **Assistant Lecturer** | FUNAAB | 2023 – Present
+* **Graduate Assistant** | FUNAAB | 2019 – 2023
+
+## Awards & Honors
+* **Best Poster Award (Scientific Novelty)** | SENSE-IHE Symposium, Netherlands (2025)
+* **Doctoral Research Exchange Program** (CAPES-PDSE, 2025-2026)
+* **Brazil Government Research Mobility Award** (CAPES, 2025)
+* **Brazil Government Research Mobility Award** (CAPES, 2022)
+* **ARIFA Fellowship** (2020)
+
+* **University Sport Ambassador (FUNAAB)** | Silver Medal (2018)
+* **West African University Games (WAUG)** | Silver Medal (2018)
+* **Nigeria University Games (NUGA)** | Silver Medal (2017)
+* **Nigeria University Games** | Silver & Bronze Medals (2014)
+
+## Professional Memberships
+* International Water Association (IWA)
+* International Association of Hydrological Sciences (IAHS)
+* Nigeria Association of Environmental Health Scientists (NAEHS)
+
+## Research & Dissertations
+* **Bankole, A.O. (2026)**. *Flocculation Modelling using Integrated Image Analysis and Artificial Intelligent Framework *. UNESP, Brazil (In Press).
+* **Bankole, A.O. (2023)**. *Machine Learning Framework for Optimization of Flocculation Process of Water Treatment*. UNESP, Brazil. [Access Thesis](http://hdl.handle.net/11449/244140)
+* **Bankole, A.O. (2023)**. *Assessment of Groundwater Quality of Abeokuta Formation, Ogun State Nigeria*. FUNAAB.
+* **Bankole, A.O. (2017)**. *Water Quality in Igbokoda/Awoye Coastal Area of Ondo State, Nigeria*. FUNAAB.

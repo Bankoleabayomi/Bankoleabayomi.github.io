@@ -1,21 +1,32 @@
 project:
   type: website
+  output-dir: _site
 
 website:
-  title: "my-academic-site"
+  title: "Abayomi Oluwatobiloba Bankole"
+  google-analytics: "G-G5QSLWKHKB"
+  search: true
   navbar:
     left:
-      - href: index.qmd
-        text: Home
-      - about.qmd
+      - text: "Home"
+        href: index.qmd
+      - text: "About"
+        href: about.qmd
+      - text: "Research"
+        menu:
+          - text: "Active Projects & Grants"
+            href: projects.qmd
+          - text: "Software & Outputs"
+            href: software.qmd
+      - text: "Publications"
+        href: publications.qmd
+      - text: "Conferences"
+        href: conference.qmd
 
 format:
   html:
     theme:
-      - cosmo
-      - brand
+      light: cosmo
+      dark: darkly
     css: styles.css
     toc: true
-
-
-

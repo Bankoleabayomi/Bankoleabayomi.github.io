@@ -1,1 +1,121 @@
 /* css styles */
+/* Customizing the theme */
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  line-height: 1.6;
+  color: #333;
+}
+
+/* Style the About section */
+.about-entity {
+  border-bottom: 2px solid #e9ecef;
+  padding-bottom: 20px;
+}
+
+/* Professional card look for links */
+.btn-primary {
+  background-color: #2c3e50 !important;
+  border-color: #2c3e50 !important;
+}
+
+/* Increase readability for project lists */
+ul li {
+  margin-bottom: 10px;
+}
+
+h2 {
+  color: #2c3e50;
+  border-left: 5px solid #2c3e50;
+  padding-left: 10px;
+  margin-top: 30px;
+}
+
+/* Ensure text is white in dark mode */
+[data-bs-theme="dark"] body {
+  color: #ffffff !important;
+}
+
+[data-bs-theme="dark"] h1, [data-bs-theme="dark"] h2, [data-bs-theme="dark"] p {
+  color: #ffffff !important;
+}
+
+/* Styling for the Bootstrap icon grid (first row) */
+.icon-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr); /* 3 columns for 3 icons */
+  gap: 20px;
+  justify-items: center;
+  margin-top: 20px;
+  font-size: 2rem; /* Make icons large */
+}
+
+.icon-grid a {
+  color: #333; /* Set icon color */
+}
+
+/* Styling for the custom logo grid (second row) */
+.logo-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr); /* 4 columns for 4 logos */
+  gap: 20px;
+  justify-items: center;
+  margin-top: 20px;
+}
+
+.logo-grid img {
+  height: 40px; /* Set a fixed height for consistency */
+  width: auto;
+  transition: transform 0.2s;
+}
+
+.logo-grid img:hover {
+  transform: scale(1.1); /* Subtle hover effect */
+}
+
+/* Tighten the About Page layout */
+.quarto-about-trestles {
+  max-width: 100% !important;
+  margin-left: 0 !important;
+}
+
+/* Remove extra whitespace around the profile photo */
+.quarto-about-trestles .about-entity {
+  flex: 0 0 300px; /* Adjust this to move photo/links left */
+  margin-right: 2rem;
+}
+
+/* Ensure the links grid stays compact */
+.icon-grid, .logo-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: flex-start; /* Aligns links to the left */
+  margin-top: 10px;
+}
+
+/* Tighten the profile column and force it left */
+#profile-column {
+  padding-right: 20px;
+}
+
+/* Force all icons/logos onto one single row */
+.unified-icon-grid {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap; /* Allows wrapping only if screen is very narrow */
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-start;
+  margin-top: 15px;
+}
+
+/* Icon scaling */
+.unified-icon-grid i {
+  font-size: 1.5rem;
+  color: #333;
+}
+
+.logo-img {
+  height: 24px; /* Matches the icon height */
+  width: auto;
+}
