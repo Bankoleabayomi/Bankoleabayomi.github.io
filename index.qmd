@@ -16,6 +16,7 @@ title: "Abayomi Oluwatobiloba Bankole"
   <a href="https://www.researchgate.net/profile/Abayomi-Bankole-2/research" aria-label="ResearchGate"><img src="images/researchgate.png" class="logo-img"></a>
   <a href="https://www.scopus.com/authid/detail.uri?authorId=57433781700" aria-label="Scopus"><img src="images/scopus.png" class="logo-img"></a>
   <a href="https://www.webofscience.com/wos/author/record/GRS-0591-2022" aria-label="Web of Science"><img src="images/wos.png" class="logo-img"></a>
+  <a href="https://wwws.cnpq.br/cvlattesweb/PKG_MENU.menuf_cod=0B78BB10E0AB16E571BC62511C0A1EE4#" aria-label="Lattes CV"><img src="images/lattes.png" class="logo-img"></a>
 </div>
 :::
 
@@ -29,11 +30,11 @@ I am a researcher and developer specializing in the intersection of:
 * **Computer Vision**
 * **Artificial Intelligence**
 
-My work focuses on developing robust, real-time computational tools to improve water and wastewater treatment processes, leveraging high-performance hardware and modern machine learning architectures.
+My work focuses on developing robust, real-time computational tools to improve water and wastewater treatment processes, leveraging non-intrusive imaging techniques and advanced deep learning approaches.
 
 ## Current Focus
 
-I am currently working on developing framework for the real-time monitoring of flocculation process and enhance the efficiency and sustainability of water treatment systems. I am also exploring the integration of AI and edge-A for . I am also exploring the integration of AI and edge-AI to enhance real-time capabilities in water and wastewater treatment systems.
+I am currently working on developing intelligent framework for the real-time monitoring of flocculation process and enhance the efficiency and sustainability of water treatment systems. I am also exploring the integration of AI and edge-AI to enhance real-time capabilities in water and wastewater treatment systems. Part of my research also explore the mitigation of extreme hydrological events and the development of early warning systems for sustainable water resources management and climate change adaptation.
 
 ## Research Overview
 My research integrates **Artificial Intelligence, Computer Vision, and Process Modelling** to advance water and wastewater treatment technologies. 

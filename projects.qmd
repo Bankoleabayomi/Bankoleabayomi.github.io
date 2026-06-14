@@ -13,11 +13,11 @@
 *   **Role:** Co-researcher
 *   **Funding:** National Council for Scientific and Technological Development (CNPq)
 *   **Duration:** 2024–2026
-*   **Team:** UNESP, UoB, FUNAAB (Lead: R. Moruzzi)
+*   **Team:** UNESP, UoB, FUNAAB (Lead Researcher: Prof. Rodrigo Moruzzi)
 :::
 
 ::: {.callout-note}
-### 3. Stakeholder Participation for Drought Resilience
+### 3. Stakeholder Participation for Drought Resilience - DUPC3
 *   **Role:** Co-researcher
 *   **Funding:** Government of the Netherlands (Water and Development Partnership - DUPC3)
 *   **Duration:** 2023–2026
